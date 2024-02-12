@@ -4,7 +4,7 @@ const app = express()
 var bodyParser = require('body-parser')
 
 // const base_url = "http://localhost:3000"
-const base_url = "http://10.104.12.13"
+const base_url = "http://node58185-sxdx2003.proen.app.ruk-com.cloud"
 
 app.set('view engine', 'ejs')
 app.use(bodyParser.json())
